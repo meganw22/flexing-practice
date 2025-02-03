@@ -8,5 +8,10 @@ button {
     background-color: crimson;
     margin: 5px;
     padding: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
+    border: solid black 2px;
+}
+
+button:hover {
+    background-color: rgb(194, 21, 56);
 }
